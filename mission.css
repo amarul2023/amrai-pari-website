@@ -1,0 +1,28 @@
+/* style.css */
+  
+header {
+  background-color: #33363d;
+  color: #ccc;
+  padding: 2px;
+  text-align: center;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline-block;
+}
+
+nav ul li a {
+  color: #ccc;
+  text-decoration: none;
+  padding: 10px;
+}
+
+main {
+  padding: 30px;
+}
