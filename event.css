@@ -22,3 +22,11 @@ header {
     text-decoration: none;
     padding: 10px;
   }
+  footer {
+    background-color: #f3f0f0;
+    color: #0c0c0c;
+    padding: 1px;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+  }

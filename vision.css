@@ -5,6 +5,8 @@ header {
   color: #ccc;
   padding: 2px;
   text-align: center;
+  width: 100%;
+  position: fixed;
 }
 
 nav ul {
@@ -26,11 +28,23 @@ nav ul li a {
 main {
   padding: 30px;
 }
-div{
+.box{
   margin: 10px;
   padding: 10px;
   display: block;
   border-radius: 10px;
   border: 10px;
-  background-color: rgb(38, 206, 248);
+  background-color: #c7ea46;
+  scrollbar-shadow-color: aquamarine;
+}
+footer {
+  background-color: #f3f0f0;
+  color: #0c0c0c;
+  padding: 1px;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+h3{
+  text-align: center;
 }

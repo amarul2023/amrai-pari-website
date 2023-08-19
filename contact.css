@@ -19,6 +19,8 @@ header {
   color: #ccc;
   padding: 2px;
   text-align: center;
+  width: 100%;
+
 }
 
 nav ul {
@@ -35,4 +37,12 @@ nav ul li a {
   color: #ccc;
   text-decoration: none;
   padding: 10px;
+}
+footer {
+  background-color: #f3f0f0;
+  color: #0c0c0c;
+  padding: 1px;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
 }

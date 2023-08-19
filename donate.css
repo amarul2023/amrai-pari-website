@@ -5,6 +5,7 @@ header {
     color: #ccc;
     padding: 2px;
     text-align: center;
+    position: fixed;
   }
   
   nav ul {
@@ -25,4 +26,12 @@ header {
   
   main {
     padding: 30px;
+  }
+  footer {
+    background-color: #f3f0f0;
+    color: #0c0c0c;
+    padding: 1px;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
   }
