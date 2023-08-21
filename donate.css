@@ -14,10 +14,28 @@ body{
   height: 50px;
   text-align: center;
   font-size: xx-large;
+  width: 100%;
 }
 .as{
   text-align: center;
   font-size: large;
   background: #fff;
-  width: auto;
+  width: 100%;
+}
+.inspiration{
+  text-align: center;
+  font-size:x-large ;
+  background: #fff ;
+  font: bold;
+  color: #0e0d0d;
+  height: 50px;
+  width: 100%;
+  font: bolder;
+  height: 45px;
+}
+.hyperlink{
+  background:#fff;
+  text-align: center;
+  width: 100%;
+  height: 80px;
 }
