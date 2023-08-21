@@ -1,8 +1,8 @@
 /* style.css */
 
 header {
-  background-color: #33363d;
-  color: #ccc;
+  background-color: #00262b;
+  color: #fff;
   padding: 2px;
   text-align: center;
   align-items: center;
@@ -20,7 +20,7 @@ nav ul li {
 }
 
 nav ul li a {
-  color: #ccc;
+  color: #fff;
   text-decoration: none;
   padding: 10px;
 }
@@ -58,5 +58,8 @@ footer {
   bottom: 0;
   width: 100%;
   text-align: center;
+}
+body{
+  background-color: #fff;
 }
 

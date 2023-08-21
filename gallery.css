@@ -1,7 +1,7 @@
 /* style.css */
   
 header {
-  background-color: #33363d;
+  background-color: #00262b;
   color: #ccc;
   padding: 2px;
   text-align: center;
@@ -19,7 +19,7 @@ header {
 
   .images{
     display: grid;
-    grid-template-columns: repeat(3, 1fr); /* Three columns */
+    grid-template-columns: repeat(2, 1fr); /* Three columns */
     gap: 10px; /* Gap between images */
     padding: 20px; /* Padding around the gallery */
     border: 3px solid #0c0c0c;

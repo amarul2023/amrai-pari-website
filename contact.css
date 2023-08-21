@@ -1,5 +1,5 @@
 form input[type="submit"] {
-  background-color: #33363d;
+  background-color: #00262b;
   color: #fff;
   padding: 10px 20px;
   border: none;
@@ -7,7 +7,7 @@ form input[type="submit"] {
 }
 header {
   background-color: #0ad5f0;
-  color: #131212;
+  color: #00262b;
   padding: 15px;
   text-align: center;
 }
@@ -15,7 +15,7 @@ header {
 /* style.css */
   
 header {
-  background-color: #33363d;
+  background-color: #00262b;
   color: #ccc;
   padding: 2px;
   text-align: center;
