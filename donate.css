@@ -1,26 +1,20 @@
 body{
   background: #ffefd5 ;
 }
-.box{
-  margin: 10px;
-  padding: 10px;
-  display: block;
-  border-radius: 10px;
-  border: 10px;
-  background-color: rgb(38, 206, 248);
-}
 .di{
   background: #fff;
   height: 50px;
   text-align: center;
   font-size: xx-large;
   width: 100%;
+  font-family: "Baloo Da 2",cursive;
 }
 .as{
   text-align: center;
   font-size: large;
   background: #fff;
   width: 100%;
+  font-family: "Baloo Da 2",cursive;
 }
 .inspiration{
   text-align: center;
@@ -32,10 +26,12 @@ body{
   width: 100%;
   font: bolder;
   height: 45px;
+  font-family: "Baloo Da 2",cursive;
 }
 .hyperlink{
   background:#fff;
   text-align: center;
   width: 100%;
   height: 80px;
+  font-family: "Baloo Da 2",cursive;
 }
