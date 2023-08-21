@@ -1,0 +1,23 @@
+body{
+  background: #ffefd5 ;
+}
+.box{
+  margin: 10px;
+  padding: 10px;
+  display: block;
+  border-radius: 10px;
+  border: 10px;
+  background-color: rgb(38, 206, 248);
+}
+.di{
+  background: #fff;
+  height: 50px;
+  text-align: center;
+  font-size: xx-large;
+}
+.as{
+  text-align: center;
+  font-size: large;
+  background: #fff;
+  width: auto;
+}
