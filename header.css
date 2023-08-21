@@ -5,9 +5,12 @@ header {
     text-align: center;
     align-items: center;
     width: 100%;
+    height: 18%;
+    font-size: large;
+    
   }
   
-  nav ul,li,a {
+  .heading {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -23,4 +26,9 @@ header {
     bottom: 0;
     width: 100%;
     text-align: center;
+    height:70px;
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+    /* line-height-step: 0; */
   }
