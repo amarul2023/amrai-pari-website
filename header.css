@@ -1,0 +1,28 @@
+/* style.css */
+
+header {
+    background-color: #00262b;
+    color: #fff;
+    padding: 2px;
+    text-align: center;
+    align-items: center;
+    width: 100%;
+  }
+  
+  nav ul,li,a {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+  }
+    footer {
+    background-color: #f3f0f0;
+    color: #0c0c0c;
+    padding: 1px;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+  }

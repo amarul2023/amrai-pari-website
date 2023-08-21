@@ -1,29 +1,4 @@
-/* style.css */
 
-header {
-  background-color: #00262b;
-  color: #fff;
-  padding: 2px;
-  text-align: center;
-  align-items: center;
-  width: 100%;
-}
-
-nav ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-nav ul li {
-  display: inline-block;
-}
-
-nav ul li a {
-  color: #fff;
-  text-decoration: none;
-  padding: 10px;
-}
 .home-content {
   /* margin: 10px; */
   padding: 10px;
@@ -51,14 +26,7 @@ img {
 header img {
   margin-right: 15px;
 }
-footer {
-  background-color: #f3f0f0;
-  color: #0c0c0c;
-  padding: 1px;
-  bottom: 0;
-  width: 100%;
-  text-align: center;
-}
+
 body{
   background-color: #fff;
 }
