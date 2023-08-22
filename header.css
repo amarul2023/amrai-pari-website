@@ -6,11 +6,8 @@ header {
     align-items: center;
     width: 100%;
     height: 18%;
-    font-size: large;
-    font-family: "Baloo Da 2",cursive;
-    
+    font-size: large; 
   }
-  
   .heading {
     list-style-type: none;
     margin: 0;
@@ -25,7 +22,6 @@ header {
     text-align: center;
     width: 100%;
     height: 80px;
-    font-family: "Baloo Da 2",cursive;
   }
     footer {
     background-color: #f3f0f0;
@@ -38,6 +34,4 @@ header {
     display:flex;
     flex-direction:column;
     justify-content:space-between;
-    font-family: "Baloo Da 2",cursive;
-    /* line-height-step: 0; */
   }
