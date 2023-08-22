@@ -3,15 +3,13 @@ body{
 }
 .gallery{
   display: grid;
-  grid-template-columns: repeat(3, 1fr); /* Three columns */
-  gap: 10px; /* Gap between images */
+  grid-template-columns: repeat(3, 2fr); /* Three columns */
+  gap: 30px; /* Gap between images */
   padding: 20px; /* Padding around the gallery */
   color: #fff;
-  padding: 10px;
-
 }
 .gallery img {
-  border: 7px solid #42baf5; /* Add a border to each image */
+  border: 7px solid #0f1011; /* Add a border to each image */
   width: 100%; /* Make the images fill their containers */
 }
 .ul,li,a{
