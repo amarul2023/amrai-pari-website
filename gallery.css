@@ -1,3 +1,27 @@
 body{
-  background: #ffefd5 ;
+  background: #fff ;
+}
+.gallery{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Three columns */
+  gap: 10px; /* Gap between images */
+  padding: 20px; /* Padding around the gallery */
+  color: #fff;
+  padding: 10px;
+
+}
+.gallery img {
+  border: 7px solid #42baf5; /* Add a border to each image */
+  width: 100%; /* Make the images fill their containers */
+}
+.ul,li,a{
+  color: #fff;
+  text-decoration: none;
+  display: flex;
+  margin-right: 10px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+
 }
